@@ -23,11 +23,18 @@
 | [Open Day ESIR - SI presentation](https://github.com/Yami-ESIR1/ESIR1-ANG1/blob/master/English%20Presentation%20(Informations%20System).pdf) | Fabien, Mael, Anthony                 |
 
 ### 📢 COM :
-| CC                                                                                                                                 | Sujet                                                                    | Groupe                           |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------|
+| CC                                                                                                                                 | Sujet                                                                                               | Groupe                           |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------|
 | [CC1 - Ingénieur et le développement durable](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/CC1.pdf)                         | [Consignes](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/Dossier%20de%20consignes%20CC1.pdf) | Fabien, Guillaume, Théo          |
-| [CC2 - Environnement professionnel de l'ingénieur : L'analyse d'Atos](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/CC2.pdf) |       [Consignes](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/Dossier%20de%20consignes%20CC2.pdf)                                                                   | Fabien, Mael, Guillaume, Quentin |
-| [CC3 - Normes sociales et culturelles de Decathlon](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/CC3.pdf)                   |    [Consignes](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/Dossier%20de%20consignes%20CC3.pdf)                                                                      | Fabien, Mael, Guillaume, Quentin            |
+| [CC2 - Environnement professionnel de l'ingénieur : L'analyse d'Atos](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/CC2.pdf) | [Consignes](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/Dossier%20de%20consignes%20CC2.pdf) | Fabien, Mael, Guillaume, Quentin |
+| [CC3 - Normes sociales et culturelles de Decathlon](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/CC3.pdf)                   | [Consignes](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/Dossier%20de%20consignes%20CC3.pdf) | Fabien, Mael, Guillaume, Quentin |
+
+### 👔 MGT :
+| CC                                                                                                                                                                                                             | Sujet                                                                                                             | Groupe                           |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| [Analyse OVHCloud](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/CC_Management___OVH___Analyse.pdf)                                                                                                      | [Consignes](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/Evaluation_%20Management%20Strate%CC%81gique.pdf) | Fabien, Quentin, Mael            |
+| [Pratiques de management de l'innovation chez Decathlon](https://github.com/Yami-ESIR1/ESIR1-COM/blob/master/CC2_Management_Pratiques_de_management_de_Decathlon_BRIEND_GOARDOU_KERICHARD_LEGRAND_PINAULT.pdf) | .................                                                                                                 | Fabien, Mael, Guillaume, Quentin |
+
 
 
 ## 📚 Semestre 2 :
